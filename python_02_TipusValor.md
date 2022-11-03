@@ -26,17 +26,17 @@ Com deia aquests es divideixen en:
 ## Text
 
 
-![Tipus de dades](./imatges/05_python/TDD_01_TipusDeDades.png)
+![Tipus de dades](./05_python/TDD_01_TipusDeDades.png)
 
-![Tipus d'operadors](./imatges/05_python/TDD_02_Operadors.png)
+![Tipus d'operadors](./05_python/TDD_02_Operadors.png)
 
-![Tipus d'operadors](./imatges/05_python/TDD_Operadors.png)
+![Tipus d'operadors](./05_python/TDD_Operadors.png)
 
-![Tipus d'operadors](./imatges/05_python/TDD_Operadors.png)
+![Tipus d'operadors](./05_python/TDD_Operadors.png)
 
-![Tipus d'operadors](./imatges/05_python/TDD_Operadors.png)
+![Tipus d'operadors](./05_python/TDD_Operadors.png)
 
-![Tipus d'operadors](./imatges/05_python/TDD_Operadors.png)
+![Tipus d'operadors](./05_python/TDD_Operadors.png)
 
 ### Nombres
 

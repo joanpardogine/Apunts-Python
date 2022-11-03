@@ -9,19 +9,19 @@ Per començar, no cal res més que tenir instal·lat python al nostre ordinador.
 
 Per confirmar que el tenim correctament instal·lat podem, des de la consola d'ordres de Windows (**```cmd```**), executar el següent:
 
-![cmd](./imatges/05_python/python00001.png)
+![cmd](./05_python/python00001.png)
 
 Un cop oberta la consola d'ordres de Windows
 
-![execucio de python](./imatges/05_python/python00002.png)
+![execucio de python](./05_python/python00002.png)
 
 executarem el programa **```python```**.
 
-![execucio de python](./imatges/05_python/python00003.png)
+![execucio de python](./05_python/python00003.png)
 
 I si el tenim ben instal·lat, ens apareixerà alguna cosa com el següent:
 
-![execucio de python](./imatges/05_python/python00004.png)
+![execucio de python](./05_python/python00004.png)
 
 És a dir, se'ns obre la consola de  **```python```**.
 
@@ -37,7 +37,7 @@ Per tant, si executem la següent comanda:
 print(`"Hello World!"`)
 ```
 
-![execucio de python](./imatges/05_python/python00005.png)
+![execucio de python](./05_python/python00005.png)
 
 
 Per pantalla apareixerà:
@@ -50,7 +50,7 @@ Per adaptar-ho una mica, podem executar el següent:
 ```python
 print("Hola alumnes del Ginebró!!")
 ```
-![execucio de python](./imatges/05_python/python00006.png)
+![execucio de python](./05_python/python00006.png)
 
 Per pantalla apareixerà:
 ```python
@@ -68,7 +68,7 @@ Per tant si executem la següent comanda:
 ```python
 print("Hola alumnes del Ginebró!!"); print("Benvinguts a l'escola!")
 ```
-![execucio de python](./imatges/05_python/python00007.png)
+![execucio de python](./05_python/python00007.png)
 
 Per pantalla apareixerà:
 ```python
@@ -103,7 +103,7 @@ print("Hola alumnes\
  del Ginebró!!");
 ```
 
-![execucio de python](./imatges/05_python/python00008.png)
+![execucio de python](./05_python/python00008.png)
 
 Per la consola es veurà:
 ```python
@@ -131,6 +131,6 @@ Per veure un exemple d'indentació es pot executar la següent comanda (de momen
 4
 5
 ```
-![execucio de python](./imatges/05_python/python00009.png)
+![execucio de python](./05_python/python00009.png)
 
 Com s'ha pogut veure es podria perfectament fer servir la shell pròpia de python, però com ja es veurà més endavant, resulta molt més senzill treballar amb un **IDE** (***I*ntegrated *D*eveloper *E*ditor**), en el nostre cas farem servir ***Visual Studio Code***.
