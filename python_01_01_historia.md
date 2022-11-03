@@ -4,7 +4,7 @@
 
 **Python** és un llenguatge de programació de propòsit general molt poderós i flexible alhora que senzill i fàcil d'aprendre.
 
-![logo](./imatges/05_python/python_logo.png)
+![logo](./05_python/python_logo.png)
 
 Aquest llenguatge va ser creat a principis dels noranta per **[Guido van Rossum](https://en.wikipedia.org/wiki/Guido_van_Rossum)** als **Països Baixos**.
 
