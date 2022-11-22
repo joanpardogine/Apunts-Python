@@ -19,7 +19,7 @@ Per exemple, habilita tres maneres d'imprimir el valor d'una variable:
 1. bé amb patrons de format (a l'estil del ```printf``` de **C**).
 
 
-És **programari lliure** (***[Open source](https://en.wikipedia.org/wiki/Open_source)***) i està implementat a totes les plataformes i sistemes operatius habituals.
+És **programari lliure** ([***Open source*** (wikipedia)](https://en.wikipedia.org/wiki/Open_source)) i està implementat a totes les plataformes i sistemes operatius habituals.
 
 ## Programari lliure
 
@@ -97,6 +97,6 @@ La majoria dels servidors no tenen suport a **Python**, i si ho suporten, la con
 Llibreries incloses
 Algunes llibreries que porta per defecte no són del gust d'ampli de la comunitat, i opten a usar llibreries de tercers.
 
-https://entrenamiento-python-basico.readthedocs.io/es/latest/leccion1/introduccion.html
+<!-- https://entrenamiento-python-basico.readthedocs.io/es/latest/leccion1/introduccion.html
 
-https://www.youtube.com/watch?v=u4I9PqhqCo8&list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS&index=5
+https://www.youtube.com/watch?v=u4I9PqhqCo8&list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS&index=5 -->

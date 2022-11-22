@@ -34,7 +34,7 @@ La primera vegada que s'ensenya qualsevol llenguatge de programació, com és tr
 Per tant, si executem la següent comanda:
 
 ```python
-print(`"Hello World!"`)
+print("Hello World!")
 ```
 
 ![execucio de python](./05_python/python00005.png)
@@ -134,3 +134,6 @@ Per veure un exemple d'indentació es pot executar la següent comanda (de momen
 ![execucio de python](./05_python/python00009.png)
 
 Com s'ha pogut veure es podria perfectament fer servir la shell pròpia de python, però com ja es veurà més endavant, resulta molt més senzill treballar amb un **IDE** (***I*ntegrated *D*eveloper *E*ditor**), en el nostre cas farem servir ***Visual Studio Code***.
+
+
+## [Següent -> **Python** - Tipus de dades i operadors](./python_02_TipusValor.md)

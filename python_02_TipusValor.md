@@ -17,9 +17,9 @@ Els tipus de variables es divideixen en tres tipus.
 Els **nombres** a la vegada es divideixen en tres tipus.
 Com deia aquests es divideixen en:
 
-* **enters** (**```int```**), és a dir nommbres sencers, que no tenen part decimal.
+* **enters** (**```int```**), és a dir nombres sencers, que no tenen part decimal.
 
-* **decimals** (**```float```**), és a dir nommbres que tenen una part decimal. També coneguts com amb **coma flotant**.
+* **decimals** (**```float```**), és a dir nombres que tenen una part decimal. També coneguts com amb **coma flotant**.
 
 * **especials**, aquest tipus de nombres no crec que els veiem, però cal dir que també existeixen.
 
@@ -30,7 +30,7 @@ Com deia aquests es divideixen en:
 
 ![Tipus d'operadors](./05_python/TDD_02_Operadors.png)
 
-![Tipus d'operadors](./05_python/TDD_Operadors.png)
+![Tipus d'operadors](./05_python/TDD_03_Ope_Aritmetics.png)
 
 ![Tipus d'operadors](./05_python/TDD_Operadors.png)
 
@@ -55,7 +55,7 @@ print(35 / 5)   # => 7.0
 ### La divisió és una mica complicada. És una divisió entera i arrrodoneix el resultat automàticament.
 
 ```python
-    5 / 2  # => 2
+    5 / 2  # => 2.5
 ```
 
 ### Per veure la divisió no sencera cal aprendre que existeixen els valor decimals (***```float```***).
